@@ -1,2 +1,2 @@
 # java-work
-Java projects, code and practice work.
+Java code and practice work.
